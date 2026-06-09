@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aman 👋
 
-<!--
-**amanmohantyds/amanmohantyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE (Data Science) student at ITER, SOA University.
+Currently building my foundation in Python and Statistics.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🐍 Python fundamentals (Summer 2026)
+- 📊 Statistics via StatQuest
+- 🔨 First project: Titanic EDA (coming Week 5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal
+Data Science internship by Summer 2027.
+
+## Currently learning
+Python → Statistics → ML
