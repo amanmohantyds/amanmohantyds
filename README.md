@@ -1,6 +1,6 @@
 # Hi, I'm Aman 👋
 
-CSE (Data Science) student at ITER, SOA University.
+CSIT student at ITER, SOA University.
 Currently building my foundation in Python and Statistics.
 
 ## What I'm working on
