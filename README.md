@@ -3,7 +3,7 @@
 **CSIT Student at ITER, SOA University**  
 Focusing on software development and data analytics foundations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/aman-mohanty-5585a036b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aman-mohanty-5585a036b)
 ---
 
 ### 🛠️ Technical Stack
